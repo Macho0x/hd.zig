@@ -17,5 +17,5 @@ const sol = try hd.solAddress(&seed, &buf); // HAgk14JpMQLgt6rVgv7cBQFJWFto5Dqxi
 
 ```bash
 zig build test
-zig build bench
+zig build bench   # see [BENCH.md](BENCH.md)
 ```
